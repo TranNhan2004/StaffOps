@@ -10,4 +10,6 @@ public interface ProvinceService {
     Uni<List<Province>> getAll();
 
     Uni<Province> getById(UUID id);
+
+    Uni<Province> create(Province province);
 }
