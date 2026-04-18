@@ -1,4 +1,4 @@
-package com.staffops.employee.dtos.provinces;
+package com.staffops.employee.dtos.v1.provinces;
 
 import com.staffops.employee.models.provinces.CreateProvinceResult;
 import lombok.Getter;

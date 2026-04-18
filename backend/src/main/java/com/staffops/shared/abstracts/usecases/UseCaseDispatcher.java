@@ -1,4 +1,4 @@
-package com.staffops.employee.abstracts.usecases;
+package com.staffops.shared.abstracts.usecases;
 
 import io.smallrye.mutiny.Uni;
 

@@ -1,6 +1,6 @@
 package com.staffops.employee.entities;
 
-import com.staffops.employee.abstracts.entities.AuditableEntity;
+import com.staffops.shared.abstracts.entities.AuditableEntity;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

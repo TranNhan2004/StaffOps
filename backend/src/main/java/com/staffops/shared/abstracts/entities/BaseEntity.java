@@ -1,4 +1,4 @@
-package com.staffops.employee.abstracts.entities;
+package com.staffops.shared.abstracts.entities;
 
 import jakarta.persistence.Id;
 import jakarta.persistence.MappedSuperclass;

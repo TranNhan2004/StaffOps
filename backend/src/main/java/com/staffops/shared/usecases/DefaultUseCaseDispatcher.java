@@ -1,8 +1,8 @@
-package com.staffops.employee.usecases;
+package com.staffops.shared.usecases;
 
-import com.staffops.employee.abstracts.usecases.HandlerResolver;
-import com.staffops.employee.abstracts.usecases.UseCaseDispatcher;
-import com.staffops.employee.abstracts.usecases.UseCaseHandler;
+import com.staffops.shared.abstracts.usecases.HandlerResolver;
+import com.staffops.shared.abstracts.usecases.UseCaseDispatcher;
+import com.staffops.shared.abstracts.usecases.UseCaseHandler;
 import io.smallrye.mutiny.Uni;
 import jakarta.enterprise.context.ApplicationScoped;
 import lombok.RequiredArgsConstructor;

@@ -1,10 +1,10 @@
 package com.staffops.employee.usecases.provinces.commands;
 
 import com.staffops.employee.abstracts.services.ProvinceService;
-import com.staffops.employee.abstracts.usecases.UseCaseHandler;
 import com.staffops.employee.entities.Province;
 import com.staffops.employee.models.provinces.CreateProvinceCommand;
 import com.staffops.employee.models.provinces.CreateProvinceResult;
+import com.staffops.shared.abstracts.usecases.UseCaseHandler;
 import io.smallrye.mutiny.Uni;
 import jakarta.enterprise.context.ApplicationScoped;
 import lombok.RequiredArgsConstructor;
